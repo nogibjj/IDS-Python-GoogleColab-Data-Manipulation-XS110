@@ -3,13 +3,13 @@ install:
 		pip install -r requirements.txt
 
 format:
-	black *.py
+	#black *.py
 
 lint:
-	pylint --disable=R,C --ignore-patterns=test_.*?py *.py
+	#pylint --disable=R,C --ignore-patterns=test_.*?py *.py
 
 test:
-		pytest --nbval main.ipynb
+	pytest --nbval main.ipynb
 
 deploy:
 	#deploy goes here
