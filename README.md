@@ -5,6 +5,7 @@ The project is setting up a Google Colab Jupyte Notebook and performing data man
 
 This repo is generated from template [IDS706-python-Data-Visualization-XS110](https://github.com/nogibjj/IDS706-python-Data-Visualization-XS110)
 
+[![CI](https://github.com/nogibjj/IDS-Python-GoogleColab-Data-Manipulation-XS110/actions/workflows/cicd.yml/badge.svg)](https://github.com/nogibjj/IDS-Python-GoogleColab-Data-Manipulation-XS110/actions/workflows/cicd.yml)
 ## Data
 
 The data is from kaggle [world population](https://www.kaggle.com/datasets/iamsouravbanerjee/world-population-dataset). In this Dataset, we have Historical Population data for every Country/Territory in the world by different parameters like Area Size of the Country/Territory, Name of the Continent, Name of the Capital, Density, Population Growth Rate, Ranking based on Population, World Population Percentage, etc.
